@@ -1,0 +1,15 @@
+C:\Users\50496884859\Desktop\Media\obj\Debug\net7.0\Media.csproj.AssemblyReference.cache
+C:\Users\50496884859\Desktop\Media\obj\Debug\net7.0\Media.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50496884859\Desktop\Media\obj\Debug\net7.0\Media.AssemblyInfoInputs.cache
+C:\Users\50496884859\Desktop\Media\obj\Debug\net7.0\Media.AssemblyInfo.cs
+C:\Users\50496884859\Desktop\Media\obj\Debug\net7.0\Media.csproj.CoreCompileInputs.cache
+C:\Users\50496884859\Desktop\Media\bin\Debug\net7.0\Media.exe
+C:\Users\50496884859\Desktop\Media\bin\Debug\net7.0\Media.deps.json
+C:\Users\50496884859\Desktop\Media\bin\Debug\net7.0\Media.runtimeconfig.json
+C:\Users\50496884859\Desktop\Media\bin\Debug\net7.0\Media.dll
+C:\Users\50496884859\Desktop\Media\bin\Debug\net7.0\Media.pdb
+C:\Users\50496884859\Desktop\Media\obj\Debug\net7.0\Media.dll
+C:\Users\50496884859\Desktop\Media\obj\Debug\net7.0\refint\Media.dll
+C:\Users\50496884859\Desktop\Media\obj\Debug\net7.0\Media.pdb
+C:\Users\50496884859\Desktop\Media\obj\Debug\net7.0\Media.genruntimeconfig.cache
+C:\Users\50496884859\Desktop\Media\obj\Debug\net7.0\ref\Media.dll
